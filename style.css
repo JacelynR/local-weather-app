@@ -1,0 +1,57 @@
+body {
+    background-image: url("http://images.all-free-download.com/images/graphiclarge/vector_metal_background_patterns_536482.jpg");
+    padding-top: 100px;
+  }
+  
+  h1 {
+    color: #dbb108;
+  }
+  
+  h3 {
+    color: #dbb108;
+  }
+  
+  p {
+    color: #05398c;
+  }
+  
+  #container {
+    padding-top: 10px;
+    margin: auto;
+    height: 500px;
+    width: 500px;
+    border: 1px solid black;
+    color: white;
+    border-radius: 15px;
+    overflow: hidden;
+    text-align: center;
+    background-color: black;
+  }
+  
+  #city {
+    font-size: 30px;
+    color: white;
+  }
+  
+  #weatherType {
+    font-size: 20px;
+    padding-bottom: 10px;
+    color: white;
+    text-transform: capitalize;
+  }
+  
+  #fTemp {
+    font-size: 40px;
+    color: white;
+  }
+  
+  #weatherIcon {
+    height: 150px;
+    width: 500px;
+    padding-top: 20px;
+  }
+  
+  img {
+    width: 110px;
+    height: 120px;
+  }
